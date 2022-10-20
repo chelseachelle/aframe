@@ -1,20 +1,20 @@
 ---
-title: Introduction
+title: Welcome Page 
 section_title: Introduction
 type: introduction
 layout: docs
-order: 1
+order: 1 of 1
 parent_section: docs
 section_order: 1
 installation: true
 examples:
-  - title: Hello, World!
+  - title: Hello, World! Welcome to coding!
     src: https://glitch.com/edit/#!/aframe?path=index.html
 ---
 
 [three.js]: https://threejs.org
 
-## Getting Started
+## Getting Started: How to Work the A-Frame 
 
 [glitch]: http://glitch.com/~aframe
 
@@ -44,7 +44,7 @@ free. Alternatively, create an `.html` file and include A-Frame in the
 [Installation]: ./installation.md
 [school]: https://aframe.io/school/
 
-The [Installation] page provides more options for getting started with A-Frame.
+The [Installation] page provides more options and a variety of resources for getting started with A-Frame.
 To get started learning A-Frame, check out [A-Frame School][school] for visual
 step-by-step lessons to complement the documentation.
 
@@ -156,7 +156,7 @@ such as Google, Disney, Samsung, Toyota, Ford, Chevrolet, Amnesty
 International, CERN, NPR, Al Jazeera, The Washington Post, NASA. Companies such
 as Google, Microsoft, Oculus, and Samsung have made contributions to A-Frame.
 
-## Off You Go!
+## Off You Go! Let's Code!
 
 [Discord]: https://supermedium.com/discord
 [slack]: https://aframevr.slack.com/join/shared_invite/zt-f6rne3ly-ekVaBU~Xu~fsZHXr56jacQ
